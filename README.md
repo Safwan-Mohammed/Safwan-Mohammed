@@ -24,6 +24,10 @@ Here are some of my featured projects:
 - **Description:** A book rental website , which allows the user to go through various collection of books and rent out the ones which fascinate them.
 - **Tech Stack:** HTML, CSS, JavaScript, PHP, XAMPP, MySQL, Docker
 
+## Stats Card
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safwan-Mohammed&layout=compact)
+
 ## Get in Touch
 
 I'm always open to collaboration and discussions. Feel free to reach out to me through:
