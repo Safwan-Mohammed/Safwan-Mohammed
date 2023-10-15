@@ -4,7 +4,7 @@
 
 Hello, I'm Safwan Mohammed, a passionate Web-Developer from Karnataka, India. I'm enthusiastic about web development and enjoy contributing to open-source projects. This is where I showcase my web development projects and share my knowledge with the community.
 
-- 💼 [Add your LinkedIn](https://www.linkedin.com/in/safwan-mohammed-2a217a251)
+- 💼 [Here's my LinkedIn](https://www.linkedin.com/in/safwan-mohammed-2a217a251)
 - 📫 [Send me an email](mailto:safwanhanif19@gmail.com)
 
 ## Featured Projects
